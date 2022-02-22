@@ -9,7 +9,10 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
+<<<<<<< HEAD
 prompt = "^0.4.1"
+=======
+>>>>>>> 3f4be694ac4830836c6cbcbb6fceac197270a109
 
 [tool.poetry.dev-dependencies]
 
