@@ -1,5 +1,8 @@
 from random import randint
 import prompt
+from brain_games.engine import run_game
+from brain_games.games import brain_even_game
+
 
 def get_question():
     question = f'Question: {random_number}'
@@ -44,8 +47,8 @@ def engine():
 
 
 def main():
-    game_description()
-    print('Welcome to the Brain Games!')
-    engine()
+    run_game(brain_even_game)
 
 
+if __name__ == '__main__':
+    main()
