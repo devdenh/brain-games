@@ -10,4 +10,3 @@ def welcome_user():
 def user_name(name):
     real_name = name
     return real_name
-
