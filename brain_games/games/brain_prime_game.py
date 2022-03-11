@@ -21,4 +21,3 @@ def game_logic():
     question = f'Question: {number}'
     right_answer = 'yes'
     return right_answer, question
-
