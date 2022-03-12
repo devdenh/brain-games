@@ -19,5 +19,5 @@ def game_logic():
             progression = '..'
         progression_line += '{} '.format(str(progression))
         right_answer = random_step * random_element
-        question = progression_line
+        question = f'Question: {progression_line}'
     return right_answer, question
