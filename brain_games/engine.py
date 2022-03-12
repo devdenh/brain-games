@@ -14,9 +14,11 @@ def run_game(games):
         right_answer, question = games.game_logic()
         print(question)
         player_answer = input('your answer: ')
-        if str(player_answer) == str(right_answer) or player_answer == right_answer:
+        if str(player_answer) == str(right_answer) or\
+                player_answer == right_answer:
             print('Correct!')
         else:
-            return print(f"'{player_answer}' is wrong answer ;(. Correct answer was {right_answer}."
+            return print(f"'{player_answer}' is wrong answer ;(."
+                         f" Correct answer was {right_answer}."
                          f"\nLet's try again, {name}!")
     print('Congratulations, {}!'.format(name))

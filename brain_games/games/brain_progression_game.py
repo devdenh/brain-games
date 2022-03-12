@@ -14,7 +14,8 @@ def game_logic():
     progression_length = 11
     random_step = randint(2, 6)
     progression_line = ''
-    for progression in range(0 + random_step, random_step * progression_length, random_step):
+    for progression in range(0 + random_step,
+                             random_step * progression_length, random_step):
         if progression == random_step * random_element:
             progression = '..'
         progression_line += '{} '.format(str(progression))
