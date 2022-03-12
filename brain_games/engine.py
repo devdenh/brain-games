@@ -7,6 +7,8 @@ def run_game(games):
     name = prompt.string('May I have your name? ')
     print('Hello, {}!'.format(name))
     print(games.get_annotation())
+    if games.get_description() == '':
+        return
     round_counts = 3
     for _ in range(round_counts):
         right_answer, question = games.game_logic()
