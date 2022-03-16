@@ -6,7 +6,7 @@
 
 ![example workflow](https://github.com/devdenh/python-project-lvl1/actions/workflows/makelint.yml/badge.svg)
 
-https://asciinema.org/a/B1VAU5KSJfpozEZeHKRvMi6Bm
+<a href="https://asciinema.org/a/vVu6NABDpDTroGOeO8zwyNtqY" target="_blank"><img src="https://asciinema.org/a/vVu6NABDpDTroGOeO8zwyNtqY.svg" /></a>
 
 https://asciinema.org/a/AJ4YKFve1NTcROWbyIPP2A394
 
