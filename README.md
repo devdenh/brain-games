@@ -19,32 +19,32 @@ make install
 brain-even
 ```
 
-<script id="asciicast-vVu6NABDpDTroGOeO8zwyNtqY" src="https://asciinema.org/a/vVu6NABDpDTroGOeO8zwyNtqY.js" async></script>
+[![asciicast](https://asciinema.org/a/mHkkMO1ZDZpV6OxAInPr76mIJ.svg)](https://asciinema.org/a/mHkkMO1ZDZpV6OxAInPr76mIJ)
 
 ### Brain Calc Game:
 ```sh
 brain-calc
 ```
-
-<a href="https://asciinema.org/a/AJ4YKFve1NTcROWbyIPP2A394" target="_blank"><img src="https://asciinema.org/a/AJ4YKFve1NTcROWbyIPP2A394.svg" /></a>
+[![asciicast](https://asciinema.org/a/EDSYz529RsODsNaCHjQH1gxrM.svg)](https://asciinema.org/a/EDSYz529RsODsNaCHjQH1gxrM)
 
 ### Brain Gcd Game:
 ```sh
 brain-gcd
 ```
 
-<a href="https://asciinema.org/a/6HF9zXf66bQ8iSHIqYUKbVImK" target="_blank"><img src="https://asciinema.org/a/6HF9zXf66bQ8iSHIqYUKbVImK.svg" /></a>
+[![asciicast](https://asciinema.org/a/rj4o2E7LLT9H7GE5vd1JFWQUk.svg)](https://asciinema.org/a/rj4o2E7LLT9H7GE5vd1JFWQUk)
 
 ### Brain Progression Game:
 ```sh
 brain-progression
 ```
 
-<a href="https://asciinema.org/a/HTk3bAKr1hodmtX5XXgkmSAHh" target="_blank"><img src="https://asciinema.org/a/HTk3bAKr1hodmtX5XXgkmSAHh.svg" /></a>
+
+[![asciicast](https://asciinema.org/a/nFvDTdS1m8PH34ZtkXT7Byb2g.svg)](https://asciinema.org/a/nFvDTdS1m8PH34ZtkXT7Byb2g)
 
 ### Brain Prime Game:
 ```sh
 brain-prime
 ```
 
-<a href="https://asciinema.org/a/ywjsSuZk3Xl6McUeMfMsLWBKc" target="_blank"><img src="https://asciinema.org/a/ywjsSuZk3Xl6McUeMfMsLWBKc.svg" /></a>
+[![asciicast](https://asciinema.org/a/b6fRqbvHKFhoZrHTlemdxGwuL.svg)](https://asciinema.org/a/b6fRqbvHKFhoZrHTlemdxGwuL)
