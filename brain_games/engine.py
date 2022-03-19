@@ -1,5 +1,4 @@
 import prompt
-from brain_games.games import prime
 
 
 def run_game(game):
@@ -20,3 +19,4 @@ def run_game(game):
                          f" Correct answer was {right_answer}."
                          f"\nLet's try again, {name}!")
     print('Congratulations, {}!'.format(name))
+
