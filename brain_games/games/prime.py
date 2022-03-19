@@ -7,7 +7,7 @@ def get_annotation():
 
 
 def is_prime(number):
-    for divisior in range(2, int(math.sqrt(number))):
+    for divisior in range(2, int(math.sqrt(number)) + 1):
         if number % divisior == 0:
             return False
     return True
