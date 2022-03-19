@@ -10,12 +10,12 @@ def is_prime(number):
     for divisior in range(2, int(math.sqrt(number))):
         if number % divisior == 0:
             return False
-        return True
+    return True
 
 
 def get_question_and_answer():
     number = randint(2, 50)
-    if is_prime(number) == True:
+    if is_prime(number):
         right_answer = 'yes'
         question = number
         return right_answer, question
