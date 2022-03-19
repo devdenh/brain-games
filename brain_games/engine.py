@@ -1,4 +1,5 @@
 import prompt
+from brain_games.games import prime
 
 
 def run_game(game):
