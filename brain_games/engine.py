@@ -19,4 +19,3 @@ def run_game(game):
                          f" Correct answer was {right_answer}."
                          f"\nLet's try again, {name}!")
     print('Congratulations, {}!'.format(name))
-
