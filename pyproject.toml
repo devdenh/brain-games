@@ -1,11 +1,17 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Interactive game based on different math operations"
 authors = ["Denis Aminov <Denisaminov74@gmail.com>"]
 packages = [
   { include = "brain_games" },
 ]
+
+classifiers = [
+    "Programming Language :: Python :: 3.8"
+]
+
+repository = "https://github.com/devdenh/python-project-lvl1"
 
 [tool.poetry.dependencies]
 python = "^3.8"
