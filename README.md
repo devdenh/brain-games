@@ -7,8 +7,11 @@
 ### Brain-game
 description: Interactive game based on different math operations 
 
-requirements: Python "^3.8"
-prompt = "^0.4.1"
+requirements:
+
+Python ^3.8
+
+prompt ^0.4.1
 
 ### Setup
 ```sh
