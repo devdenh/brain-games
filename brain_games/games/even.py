@@ -10,6 +10,3 @@ def get_question_and_answer():
     question = number1
     right_answer = 'no' if question % 2 else 'yes'
     return right_answer, question
-
-
-print(get_question_and_answer())
